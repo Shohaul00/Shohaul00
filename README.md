@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shihab Shohaul</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate MERN STACK Developer From Bangladesh</h3>
 
 - 🔭 I’m currently working on [Photo Map](https://github.com/Shohaul00/Photo-Map)
 
